@@ -1,0 +1,8 @@
+{
+  "applicationName" : "",
+  "logoHeader" : "Logo_homepage.png",
+  "logoFooter":"",
+  "logoHome":"Logo_homepage.png",
+  "organizationName": "",
+  "BASEURL": "http://localhost:8080/api/v1/"
+}
